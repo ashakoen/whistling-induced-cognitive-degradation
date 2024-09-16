@@ -35,7 +35,7 @@ Detailed measurements were taken using an advanced cognitive load monitoring sys
 
 The following heatmap illustrates neural activation within various brain regions during task performance. Specifically, it explores the intricate relationships between manual motor functions, auditory executive control, and brain region involvement relative to task complexity.
 
-![Enhanced Granular Heatmap](images/improved_granular_heatmap_brain_tasks.png)
+![Enhanced Granular Heatmap](improved_granular_heatmap_brain_tasks.png)
 
 ---
 
